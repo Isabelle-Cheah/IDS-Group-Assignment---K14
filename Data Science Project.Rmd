@@ -1,7 +1,6 @@
 ---
 title: "Data Science Project"
 author: "Isabelle Cheah"
-date: "2025-12-03"
 output: pdf_document
 ---
 
