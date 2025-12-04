@@ -1,6 +1,6 @@
 ---
 title: "Data Science Project"
-author: "Isabelle Cheah"
+author: "Group K14"
 output: pdf_document
 ---
 
